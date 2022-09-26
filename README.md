@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stephanyemidio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanyemidio" height="30" width="40" /></a>
+<a href="mailto:dev.semidio@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71826255/192363918-728f2d31-f845-4b72-aa12-5691fb92bba3.png" alt="stephanyemidio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
